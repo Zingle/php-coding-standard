@@ -1,0 +1,17 @@
+{
+  "name": "zingle-com/php-coding-standard",
+  "description": "PHP Coding Standards for Zingle Projects",
+  "type": "library",
+  "license": "MIT",
+  "authors": [{
+    "name": "Zingle",
+    "homepage": "https://github.com/Zingle/php-coding-standard"
+  },{
+    "name": "Zachary Quintana",
+    "homepage": "https://github.com/zquintana"
+  }],
+  "require": {
+    "squizlabs/php_codesniffer": "^3.3.1",
+    "escapestudios/symfony2-coding-standard": "^3.11"
+  }
+}
